@@ -1,0 +1,1539 @@
+fileFormatVersion: 2
+guid: d325e82671fe9cb48a0f81d6a3fa1788
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 624
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83005b77d8eb22640991f9bc050b5c61
+      internalID: 100286109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 624
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae804a473f8984f438f940a270ea8499
+      internalID: 1431867713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 624
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749839c0362999540a4c6f1355c4f3e1
+      internalID: 1477212173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 622
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903d64e56e142cf479d01f10b1d30199
+      internalID: 1715449723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 558
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff3498e98732214698626fc57222bd7
+      internalID: -1702908183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 557
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28be20519d7d77345a3fa22daed7778d
+      internalID: 981530288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 554
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0a133910588a44ebef9fa42c8ba8f0
+      internalID: -651173712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 558
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f564b860a3d4ea544909f671c73df2eb
+      internalID: 1943685553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 555
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6d2b571d1f475489c79f8ed5b55b9b
+      internalID: -915014949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 621
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b8bea52fd3fcc4f99edae2aaf4c617
+      internalID: -1898660104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 489
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7da0089749337446ab5dd465eff8260
+      internalID: 1053399950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 490
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237f27423083c5348bb388293c580526
+      internalID: 484803882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 490
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cec5586561ad2b43a30ae6873c1f2e9
+      internalID: 1432777297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 490
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8165125f941464b9de4ecae611fd18
+      internalID: -1653143624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 490
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66608ef5caec7844afabd4d158f17c9
+      internalID: 1904674342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 491
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ac0bc6f2e34f43b817a8806841df7
+      internalID: 98393615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 557
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baba350321c199b48abbe48b80dc2e18
+      internalID: 1700269557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 419
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49ade8ed1f25f64fb455f0bb3bf09bf
+      internalID: 579303339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 413
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445d248d93cfc7c48abec5bb5c32aee5
+      internalID: 1815962248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 413
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78143225257761342b30cbb0ed79388c
+      internalID: -271430459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 412
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b22fe3bf5680d488e3df6cab80d0d9
+      internalID: -1269923842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 489
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17f2050289d63141a7cb621e95f89be
+      internalID: -380852395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 489
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3581f56acff05489401abb1d1a2edc
+      internalID: 1231572150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 558
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48f70a7825366d4c88fbd32bfcf9b11
+      internalID: 1533992368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 418
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491fff5f22eb5484893b22f5fd1d661f
+      internalID: -1073933663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 418
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd667592b92f6104a81ace5d81077e97
+      internalID: -1087802974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 418
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62981a2bfbb927841a105d5c3182a074
+      internalID: -1618946785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 418
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baadca3c52ed07845bfaed8d5fe0eccf
+      internalID: 31065790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 337
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a82a47a071c5b40a78a0a96c09daf3
+      internalID: 638890947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 347
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9009a67ebd9fe1b42a57db91559c1b6f
+      internalID: 2011126065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 346
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be046eeb163bae40a66f653b498075e
+      internalID: -2088928696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 198
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d52fa7e22389c4d996b2791165385c
+      internalID: 1672893875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 196
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f8da8f5ff197343884b3954e0e2e1f
+      internalID: 493335126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 278
+        width: 102
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff706cb9123c7f348a133faf6941f368
+      internalID: -829459956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 339
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2561169302973142995e153806e9b36
+      internalID: 768129090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 347
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2c1c500d90906458eabd5828c1444e
+      internalID: 1690361307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 274
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fe33dcefad4f3428281aa5bf45bfe0
+      internalID: -280445630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 276
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752bd84fed719c74692b045c0cb1b645
+      internalID: 625544763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 343
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e7e94f79bcad44b8601712b773b83e
+      internalID: 38208611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 205
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2f69eab2466a04b9f6fef9cc0b1150
+      internalID: 521546877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 206
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3dc9b5764d9064a8c0204a4cadb8b6
+      internalID: 1524269069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 278
+        width: 118
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56b15213fcc76e47b4f37162b95ec7e
+      internalID: -461266564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 277
+        width: 104
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7e13ac918300b4d8af23afcc5e6dc9
+      internalID: -499026838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 206
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd639c7b27a82eb4ca2d8bb2c8bee3df
+      internalID: 1947199499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 202
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52802e2a3cb24aa4c9fdf105c72b0bd6
+      internalID: -850917102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 197
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b87b71da31e64393523673a173af2
+      internalID: -879395492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 195
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efee70a76008fc4d94db068f44df9b4
+      internalID: 1835428068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 197
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af5cd8ae131814b8de9ab6d5750b1f
+      internalID: 2053325754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 199
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aadf3a28ecc0084db333248ff8ce0f9
+      internalID: -1963976620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 128
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed4c499c4388794d8138b308c32f9be
+      internalID: 803753064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 274
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665ead113d626914bb9d771bae9dcfd8
+      internalID: 138853264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fd9746d77ef7c40890bb438d9ef6fa
+      internalID: -1213572354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699f5d7ccd847c048a88891e3f7f1c83
+      internalID: 409464249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 132
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fafef65da685c4cb3102a4b4ed5584
+      internalID: -588743820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 132
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4ec79e5a74d1f45a8a4281318640b0
+      internalID: 2075299774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f301806446e04064da6950a47b3f8bc2
+      internalID: -970054983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 56
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e05cafaf8388bc42aa44af33e79db11
+      internalID: -818486956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecc68444d70d8b4bb9d0615d7af7d03
+      internalID: 2080609889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 24
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17686b0886b3a240a0bf92d46852bbd
+      internalID: -1015822912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 21
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fb376b00360504f8887f7d91aeeb0b
+      internalID: 1352971755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 20
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41902d4be4592c8499b8aabe4b3378fa
+      internalID: -1525824853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 18
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2dc6a91e354fa4a995d17022521cb7
+      internalID: 32359211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4 Goku Sprite Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 24
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b05fd5cd34703a45b35463d8307622f
+      internalID: 1177981832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SS4 Goku Sprite Sheet_0: 100286109
+      SS4 Goku Sprite Sheet_1: 1431867713
+      SS4 Goku Sprite Sheet_10: 1053399950
+      SS4 Goku Sprite Sheet_11: 484803882
+      SS4 Goku Sprite Sheet_12: 1432777297
+      SS4 Goku Sprite Sheet_13: -1653143624
+      SS4 Goku Sprite Sheet_14: 1904674342
+      SS4 Goku Sprite Sheet_15: 98393615
+      SS4 Goku Sprite Sheet_16: 1700269557
+      SS4 Goku Sprite Sheet_17: 579303339
+      SS4 Goku Sprite Sheet_18: 1815962248
+      SS4 Goku Sprite Sheet_19: -271430459
+      SS4 Goku Sprite Sheet_2: 1477212173
+      SS4 Goku Sprite Sheet_20: -1269923842
+      SS4 Goku Sprite Sheet_21: -380852395
+      SS4 Goku Sprite Sheet_22: 1231572150
+      SS4 Goku Sprite Sheet_23: 1533992368
+      SS4 Goku Sprite Sheet_24: -1073933663
+      SS4 Goku Sprite Sheet_25: -1087802974
+      SS4 Goku Sprite Sheet_26: -1618946785
+      SS4 Goku Sprite Sheet_27: 31065790
+      SS4 Goku Sprite Sheet_28: 638890947
+      SS4 Goku Sprite Sheet_29: 2011126065
+      SS4 Goku Sprite Sheet_3: 1715449723
+      SS4 Goku Sprite Sheet_30: -2088928696
+      SS4 Goku Sprite Sheet_31: 1672893875
+      SS4 Goku Sprite Sheet_32: 493335126
+      SS4 Goku Sprite Sheet_33: -829459956
+      SS4 Goku Sprite Sheet_34: 768129090
+      SS4 Goku Sprite Sheet_35: 1690361307
+      SS4 Goku Sprite Sheet_36: -280445630
+      SS4 Goku Sprite Sheet_37: 625544763
+      SS4 Goku Sprite Sheet_38: 38208611
+      SS4 Goku Sprite Sheet_39: 521546877
+      SS4 Goku Sprite Sheet_4: -1702908183
+      SS4 Goku Sprite Sheet_40: 1524269069
+      SS4 Goku Sprite Sheet_41: -461266564
+      SS4 Goku Sprite Sheet_42: -499026838
+      SS4 Goku Sprite Sheet_43: 1947199499
+      SS4 Goku Sprite Sheet_44: -850917102
+      SS4 Goku Sprite Sheet_45: -879395492
+      SS4 Goku Sprite Sheet_46: 1835428068
+      SS4 Goku Sprite Sheet_47: 2053325754
+      SS4 Goku Sprite Sheet_48: -1963976620
+      SS4 Goku Sprite Sheet_49: 803753064
+      SS4 Goku Sprite Sheet_5: 981530288
+      SS4 Goku Sprite Sheet_50: 138853264
+      SS4 Goku Sprite Sheet_51: -1213572354
+      SS4 Goku Sprite Sheet_52: 409464249
+      SS4 Goku Sprite Sheet_53: -588743820
+      SS4 Goku Sprite Sheet_54: 2075299774
+      SS4 Goku Sprite Sheet_55: -970054983
+      SS4 Goku Sprite Sheet_56: -818486956
+      SS4 Goku Sprite Sheet_57: 2080609889
+      SS4 Goku Sprite Sheet_58: -1015822912
+      SS4 Goku Sprite Sheet_59: 1352971755
+      SS4 Goku Sprite Sheet_6: -651173712
+      SS4 Goku Sprite Sheet_60: -1525824853
+      SS4 Goku Sprite Sheet_61: 32359211
+      SS4 Goku Sprite Sheet_62: 1177981832
+      SS4 Goku Sprite Sheet_7: 1943685553
+      SS4 Goku Sprite Sheet_8: -915014949
+      SS4 Goku Sprite Sheet_9: -1898660104
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

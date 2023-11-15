@@ -17659,6 +17659,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ruby
       objectReference: {fileID: 0}
+    - target: {fileID: 7201370687294779801, guid: 5c9d712239e25f447ab25d745fbd0691, type: 3}
+      propertyPath: m_Size.x
+      value: 0.609375
+      objectReference: {fileID: 0}
+    - target: {fileID: 7201370687294779801, guid: 5c9d712239e25f447ab25d745fbd0691, type: 3}
+      propertyPath: m_Size.y
+      value: 1.03125
+      objectReference: {fileID: 0}
+    - target: {fileID: 7201370687294779801, guid: 5c9d712239e25f447ab25d745fbd0691, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 100286109, guid: d325e82671fe9cb48a0f81d6a3fa1788, type: 3}
+    - target: {fileID: 7201370687294779801, guid: 5c9d712239e25f447ab25d745fbd0691, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7365419154924918035, guid: 5c9d712239e25f447ab25d745fbd0691, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
