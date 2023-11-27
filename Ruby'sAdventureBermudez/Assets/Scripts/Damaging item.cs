@@ -1,8 +1,10 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class DamageZone : MonoBehaviour
 {
-    void OnTriggerstay2D(Collider2D other)
+    void OnTriggerStay2D(Collider2D other)
     {
         RubyController controller = other.GetComponent<RubyController>();
 
@@ -11,5 +13,4 @@ public class DamageZone : MonoBehaviour
             controller.ChangeHealth(-1);
         }
     }
-
 }
