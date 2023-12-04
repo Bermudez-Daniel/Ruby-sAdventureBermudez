@@ -78,13 +78,7 @@ AnimatorController:
   m_Name: robot
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: Move X
-    m_Type: 1
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 0}
-  - m_Name: Move Y
+  - m_Name: Blend
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -125,7 +119,7 @@ AnimatorState:
   m_TimeParameterActive: 0
   m_Motion: {fileID: -3451281909373394145}
   m_Tag: 
-  m_SpeedParameter: Move X
+  m_SpeedParameter: Blend
   m_MirrorParameter: 
   m_CycleOffsetParameter: Blend 2d
-  m_TimeParameter: Move X
+  m_TimeParameter: Blend
